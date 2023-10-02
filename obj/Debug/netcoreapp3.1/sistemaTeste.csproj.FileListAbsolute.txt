@@ -1,0 +1,13 @@
+C:\Users\User\c#\sistemaTeste\bin\Debug\netcoreapp3.1\sistemaTeste.exe
+C:\Users\User\c#\sistemaTeste\bin\Debug\netcoreapp3.1\sistemaTeste.deps.json
+C:\Users\User\c#\sistemaTeste\bin\Debug\netcoreapp3.1\sistemaTeste.runtimeconfig.json
+C:\Users\User\c#\sistemaTeste\bin\Debug\netcoreapp3.1\sistemaTeste.runtimeconfig.dev.json
+C:\Users\User\c#\sistemaTeste\bin\Debug\netcoreapp3.1\sistemaTeste.dll
+C:\Users\User\c#\sistemaTeste\bin\Debug\netcoreapp3.1\sistemaTeste.pdb
+C:\Users\User\c#\sistemaTeste\obj\Debug\netcoreapp3.1\sistemaTeste.csprojAssemblyReference.cache
+C:\Users\User\c#\sistemaTeste\obj\Debug\netcoreapp3.1\sistemaTeste.AssemblyInfoInputs.cache
+C:\Users\User\c#\sistemaTeste\obj\Debug\netcoreapp3.1\sistemaTeste.AssemblyInfo.cs
+C:\Users\User\c#\sistemaTeste\obj\Debug\netcoreapp3.1\sistemaTeste.csproj.CoreCompileInputs.cache
+C:\Users\User\c#\sistemaTeste\obj\Debug\netcoreapp3.1\sistemaTeste.dll
+C:\Users\User\c#\sistemaTeste\obj\Debug\netcoreapp3.1\sistemaTeste.pdb
+C:\Users\User\c#\sistemaTeste\obj\Debug\netcoreapp3.1\sistemaTeste.genruntimeconfig.cache
